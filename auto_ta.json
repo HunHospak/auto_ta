@@ -1,7 +1,7 @@
 {
   "service": "auto_ta",
   "schema_version": "1.0",
-  "generated_at": "2026-07-06T20:17:21+00:00",
+  "generated_at": "2026-07-06T22:51:27+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
