@@ -1,0 +1,13 @@
+service: auto_ta
+schema_version: "1.0"
+ttl_hours: 30
+
+# Watchlist to analyze. Add/remove freely.
+tickers: [SPY, QQQ, IWM, AAPL, MSFT, NVDA, AMZN, META, GOOGL, TSLA]
+
+sma_windows: [20, 50, 200]   # trend uses 20/50/200 if present
+sr_window: 40                # support / resistance lookback (trading days)
+swing_window: 60             # swing high/low used for Fibonacci retracement
+rsi_window: 14
+
+feed_url: "https://HunHospak.github.io/auto_ta/auto_ta.json"
