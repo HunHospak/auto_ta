@@ -1,0 +1,28 @@
+{
+  "service": "auto_ta",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-06T21:55:00+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-07-06",
+    "count": 2,
+    "tickers": [
+      {
+        "ticker": "SPY", "last": 512.3, "trend": "uptrend", "rsi": 61.4,
+        "support": 498.1, "resistance": 515.9, "swing_high": 515.9, "swing_low": 486.2,
+        "sma20": 505.4, "sma50": 496.8, "sma200": 471.2,
+        "pivots": {"p": 511.2, "r1": 514.6, "s1": 507.1, "r2": 518.7, "s2": 503.7},
+        "fib": {"0.236": 508.9, "0.382": 504.6, "0.5": 501.05, "0.618": 497.5, "0.786": 492.6}
+      },
+      {
+        "ticker": "TSLA", "last": 244.1, "trend": "sideways", "rsi": 47.2,
+        "support": 232.0, "resistance": 262.5, "swing_high": 262.5, "swing_low": 228.4,
+        "sma20": 246.9, "sma50": 241.3, "sma200": 235.7,
+        "pivots": {"p": 245.0, "r1": 250.2, "s1": 240.1, "r2": 255.1, "s2": 234.9},
+        "fib": {"0.236": 254.4, "0.382": 249.5, "0.5": 245.45, "0.618": 241.4, "0.786": 235.7}
+      }
+    ],
+    "disclaimer": "Technical levels from price data, not signals to buy or sell."
+  }
+}
