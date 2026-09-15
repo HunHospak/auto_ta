@@ -1,12 +1,12 @@
 {
   "service": "auto_ta",
   "schema_version": "1.0",
-  "generated_at": "2026-09-11T23:33:59+00:00",
-  "status": "active",
+  "generated_at": "2026-09-15T00:00:59+00:00",
+  "status": "partial",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-09-11",
-    "count": 10,
+    "as_of": "2026-09-15",
+    "count": 9,
     "tickers": [
       {
         "ticker": "SPY",
@@ -141,7 +141,7 @@
         },
         "sma20": 494.2516,
         "sma50": 453.115,
-        "sma200": 429.654
+        "sma200": 429.6539
       },
       {
         "ticker": "NVDA",
@@ -196,33 +196,6 @@
         "sma20": 258.9605,
         "sma50": 255.2528,
         "sma200": 239.7977
-      },
-      {
-        "ticker": "META",
-        "last": 648.03,
-        "trend": "uptrend",
-        "rsi": 83.9,
-        "support": 524.49,
-        "resistance": 664.24,
-        "swing_high": 686.08,
-        "swing_low": 524.49,
-        "pivots": {
-          "p": 650.01,
-          "r1": 657.87,
-          "s1": 636.51,
-          "r2": 671.37,
-          "s2": 628.65
-        },
-        "fib": {
-          "0.236": 647.94,
-          "0.382": 624.35,
-          "0.5": 605.29,
-          "0.618": 586.22,
-          "0.786": 559.07
-        },
-        "sma20": 586.467,
-        "sma50": 600.9022,
-        "sma200": 622.5783
       },
       {
         "ticker": "GOOGL",
@@ -280,5 +253,6 @@
       }
     ],
     "disclaimer": "Technical levels from price data, not signals to buy or sell."
-  }
+  },
+  "notes": "1 tickers missing"
 }
