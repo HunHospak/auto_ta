@@ -1,11 +1,11 @@
 {
   "service": "auto_ta",
   "schema_version": "1.0",
-  "generated_at": "2026-09-22T23:52:24+00:00",
+  "generated_at": "2026-09-24T00:00:57+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-09-22",
+    "as_of": "2026-09-24",
     "count": 10,
     "tickers": [
       {
@@ -199,7 +199,7 @@
       },
       {
         "ticker": "META",
-        "last": 736.59,
+        "last": 736.6,
         "trend": "uptrend",
         "rsi": 85.1,
         "support": 524.08,
@@ -220,9 +220,9 @@
           "0.618": 613.16,
           "0.786": 573.98
         },
-        "sma20": 632.6153,
-        "sma50": 609.959,
-        "sma200": 624.0327
+        "sma20": 632.6156,
+        "sma50": 609.9591,
+        "sma200": 624.0328
       },
       {
         "ticker": "GOOGL",
