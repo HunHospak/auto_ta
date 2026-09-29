@@ -1,8 +1,8 @@
-Technical levels — 2026-09-26
-▲ $SPY 767.18  S 732.77 / R 777.44  RSI 46.6
-▲ $QQQ 741.1  S 672.6 / R 748.35  RSI 65.5
-• $IWM 281.66  S 279.05 / R 304.39  RSI 25.5
-▲ $AAPL 335.92  S 299.74 / R 345.34  RSI 58.3
-• $MSFT 497.93  S 431.63 / R 517.78  RSI 41.9
-▲ $NVDA 224.58  S 191.31 / R 234.5  RSI 45.8
+Technical levels — 2026-09-29
+▲ $SPY 771.35  S 735.85 / R 777.44  RSI 52.5
+▲ $QQQ 744.5  S 679.34 / R 748.35  RSI 66.4
+• $IWM 281.97  S 279.05 / R 304.39  RSI 24.0
+▲ $AAPL 341.07  S 299.74 / R 345.34  RSI 74.4
+▲ $MSFT 516.17  S 448.49 / R 519.4  RSI 59.9
+▲ $NVDA 225.07  S 194.73 / R 234.5  RSI 44.0
 Levels, not signals · not investment advice · arkenlabs.eu
